@@ -1,64 +1,65 @@
+# Disco's Scripts
 
-# 🎮 Disco's Scripts
+**A Roblox script hub built for customization, utility, and convenience.**
 
-**Your scripts. Your experience. Your hub.**
+[![Platform](https://img.shields.io/badge/Platform-Roblox-111111?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com/)
+[![Language](https://img.shields.io/badge/Language-Luau-00A2FF?style=for-the-badge&logo=lua&logoColor=white)](https://luau.org/)
+[![Status](https://img.shields.io/badge/Status-In%20Development-8B5CF6?style=for-the-badge)](#)
 
-Welcome to **Disco's Scripts**, a Roblox script hub built to bring useful tools, customization options, and a convenient interface together in one place.
-
-## ✨ Features
-
-- 🎨 **Clean UI** — A simple, modern interface for easy navigation.
-- 👁️ **Visuals** — Optional visual tools for supported experiences.
-- 🏃 **Movement** — Customizable movement settings where supported.
-- 🧰 **Miscellaneous Tools** — Additional utilities and quality-of-life features.
-- 📍 **Teleport Options** — Convenient navigation tools for supported games.
-- 🔄 **Expandable** — Designed to support future scripts, features, and improvements.
-
-## 🚀 Getting Started
-
-1. Open Roblox and launch a supported experience.
-2. Run Disco's Scripts using a compatible, trusted execution environment, where permitted.
-3. Open the hub interface.
-4. Select a category from the available tabs.
-5. Enable the features you want to use.
-
-> **Note:** Available features depend on the game, its current version, and the permissions available to the script.
-
-## 🎯 Supported Games
-
-Support depends on the scripts included in the hub.
-
-- More supported experiences may be added over time.
-- Features may behave differently between games.
-- Check the relevant script's documentation before using it.
-
-## 🛠️ Development
-
-Disco's Scripts is a work in progress. Future updates may include:
-
-- Additional game support
-- New visual and utility options
-- UI improvements
-- Bug fixes and performance optimizations
-- Better configuration and customization
-
-## ⚠️ Disclaimer
-
-Disco's Scripts is an unofficial, community-developed project and is not affiliated with or endorsed by Roblox Corporation.
-Use scripts responsibly and follow the rules of the games and platforms you use. Some features may not work in every experience or may be restricted by server-side checks.
-
-## 📜 License
-
-Unless a separate license is provided, all rights are reserved by the project author. Please ask for permission before redistributing or claiming this project as your own.
-
-## 💎 Our Loadstrings
-```loadstring(game:HttpGet("https://raw.githubusercontent.com/Discoslua334/DiscosScripts/refs/heads/main/M-E-G-Endless-Reality.lua"))()```
 ---
 
-<div align="center">
+## <img src="https://cdn.simpleicons.org/rocket/8B5CF6" width="22" height="22" alt="Rocket icon"> Overview
 
-**Made with ❤️ by Disco**
+**Disco's Scripts** is a Roblox script hub designed to bring supported game utilities and customizable settings into one convenient interface.
 
-*Stay smooth. Stay scripted.*
+The project focuses on a clean user experience, organized tabs, and room for future features.
 
-</div>
+## <img src="https://cdn.simpleicons.org/target/8B5CF6" width="22" height="22" alt="Target icon"> Features
+
+| Feature | Description |
+|---|---|
+| <img src="https://cdn.simpleicons.org/eye/8B5CF6" width="18" height="18" alt="Eye"> **Visuals** | Optional visual utilities for supported experiences |
+| <img src="https://cdn.simpleicons.org/sliders/8B5CF6" width="18" height="18" alt="Sliders"> **Customization** | Adjustable interface settings and themes |
+| <img src="https://cdn.simpleicons.org/gauge/8B5CF6" width="18" height="18" alt="Gauge"> **Movement** | Movement options where supported |
+| <img src="https://cdn.simpleicons.org/map/8B5CF6" width="18" height="18" alt="Map"> **Navigation** | Convenience tools for supported experiences |
+| <img src="https://cdn.simpleicons.org/code/8B5CF6" width="18" height="18" alt="Code"> **Expandable** | Designed for future scripts and improvements |
+
+## <img src="https://cdn.simpleicons.org/terminal/8B5CF6" width="22" height="22" alt="Terminal icon"> Getting Started
+
+1. Open the project repository.
+2. Review the script and its requirements.
+3. Launch a supported Roblox experience.
+4. Run the script only in an environment where its use is permitted.
+5. Open the interface and explore the available features.
+
+## <img src="https://cdn.simpleicons.org/gamepad/8B5CF6" width="22" height="22" alt="Gamepad icon"> Supported Games
+
+Game compatibility depends on the individual scripts included in the hub. Check the relevant documentation for supported experiences and known limitations.
+
+## <img src="https://cdn.simpleicons.org/hammer/8B5CF6" width="22" height="22" alt="Hammer icon"> Development
+
+Planned improvements may include:
+
+- Additional supported experiences
+- More customization options
+- UI refinements
+- Performance improvements
+- Bug fixes and compatibility updates
+
+## <img src="https://cdn.simpleicons.org/shieldcheck/8B5CF6" width="22" height="22" alt="Shield icon"> Disclaimer
+
+Disco's Scripts is an unofficial community project and is not affiliated with Roblox Corporation. Use it responsibly and respect applicable game rules and platform policies.
+
+## <img src="https://cdn.simpleicons.org/scales/8B5CF6" width="22" height="22" alt="Scales icon"> License
+
+Unless a license is explicitly provided in this repository, all rights are reserved by the project author. Obtain permission before redistributing the project.
+
+---
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/roblox/8B5CF6" width="28" height="28" alt="Roblox icon">
+  <br>
+  <strong>Disco's Scripts</strong>
+  <br>
+  <sub>Built by Disco.</sub>
+</p>
