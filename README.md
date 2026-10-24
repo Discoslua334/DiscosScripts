@@ -52,8 +52,7 @@ Use scripts responsibly and follow the rules of the games and platforms you use.
 Unless a separate license is provided, all rights are reserved by the project author. Please ask for permission before redistributing or claiming this project as your own.
 
 ## 💎 Our Loadstrings
-``loadstring(game:HttpGet("https://raw.githubusercontent.com/Discoslua334/PeronaLua/refs/heads/main/source.luau?token=GHSAT0AAAAAAEMFSQH443GN2YU7TWYIDZXE2W4JRPQ"))()``
-
+**M.E.G Endless Reality = **``loadstring(game:HttpGet("https://raw.githubusercontent.com/Discoslua334/DiscosScripts/refs/heads/main/M-E-G-Endless-Reality.lua"))()``
 ---
 
 <div align="center">
