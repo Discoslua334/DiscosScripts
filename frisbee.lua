@@ -4,6 +4,7 @@
 -- This script isnt obfuscated so you're free t ochange keybind
 -- i might add more shit soon
 -- WELCOME TO DISCO'S SCRIPTS.
+-- Game link: https://www.roblox.com/games/96821134045043/Throw-A-Frisbee
 -- =================================================================================
 local WindUI = loadstring(game:HttpGet(
     "https://raw.githubusercontent.com/Footagesus/WindUI/main/dist/main.lua"
