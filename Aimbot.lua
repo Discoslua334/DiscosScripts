@@ -1,4 +1,4 @@
-
+-- UNIVERSAL (DONT TRY IN GAMES WITH ANTICHEAT, IT DOES NOT HOOK SHIT TO BE UNDETECTED)
 -- ===========================================================================================================
 -- CHECK THE LAST LINE BRO
 --  ____  ___ ____   ____ ___  ____  
